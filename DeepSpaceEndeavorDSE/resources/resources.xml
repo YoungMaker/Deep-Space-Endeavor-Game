@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+ <!--INTROS/MENUS-->
+  <!--IMAGES-->
+	<img id="LOGO">/resources/img/menus/logo.png</img>
+	<img id="ORB_LARGE">/resources/img/sprites/Orbpx.png</img>
+	<img id="MENU_BACK">/resources/img/menus/menuBack.png</img>
+	<img id="MENU_TITLE">/resources/img/menus/menuTitle.png</img>
+	<img id="MENU_OPTIONS">/resources/img/menus/UIMenuOptions.png</img>
+	<img id="OPTIONS_MENU_BK">/resources/img/menus/OptionsMenuBack.png</img>
+	<img id="OPTIONS_MENU_ITEMS">/resources/img/menus/OptionsMenuItems.png</img>
+	<img id="HIGH_SCORE">/resources/img/menus/HighScore.png</img>
+	<img id="DEATH_HEADER">/resources/img/menus/deathImg.png</img>
+  <!--Sounds, not implemented yet.\-->
+	<!--<sound id="BLIP">/resources/sounds/blip.wav</sound>-->
+  <!--Files-->
+	<text id="STORY">resources/story.txt</text>
+<!--GAMEPLAY-->
+  <!--sheets-->
+	<img id="END">/resources/img/sprites/endgame.png</img>
+	<sheet space="16" id="SHIP_SPRITES">/resources/img/sprites/main.png</sheet>
+	<sheet space="8" id="GUN_FIRE">/resources/img/sprites/gunfire.png</sheet>
+	<sheet space="32" id="BOSS">/resources/img/sprites/boss.png</sheet> 
+	<sheet space="16" id="EXPLOSION">/resources/img/sprites/explosion.png</sheet>
+	<sheet space="16" id="EEXPLOSION">/resources/img/sprites/Eexplosion.png</sheet>
+	<sheet space="32" id="MOTHERSHIP">/resources/img/sprites/Spaceship2.png</sheet>
+	<sheet space="32" id="MOTHERSHIP_DEATH">/resources/img/sprites/starshipExplode.png</sheet>
+	<sheet space="16" id="PUPS">/resources/img/sprites/pups.png</sheet>
+	<sheet space="102" spacey="86" id="BACKGROUND">/resources/img/sprites/Background.png</sheet>
+	<sheet space="10" spacey="32" id="JET">/resources/img/sprites/jet.png</sheet>
+	<sheet space="16" id="STATION_PARTS">/resources/img/sprites/StationParts.png</sheet>
+ <!--HUD-->
+	<sheet space="64" spacey="16" id="PUPSUI">/resources/img/menus/HUD/pupsUI.png</sheet>
+	<sheet space="16" id="PUPICONS">/resources/img/menus/HUD/pupsIndicator.png</sheet>
+	<sheet space="16" id="SHIELD">/resources/img/menus/HUD/Shield.png</sheet>
+	<img id="ARMOR">/resources/img/menus/HUD/Armor.png</img>
+	<sheet space="423" spacey="100" id="CPOINT">/resources/img/sprites/cPointAnimation.png</sheet>
+	<sheet spacey="25" space="120" id="LEVEND">/resources/img/sprites/LevEndAnimation.png</sheet>
+  <!--images-->
+    <!--HUD-->
+	<img id="HUD">/resources/img/menus/HUD/HUDUI.png</img>
+ <!--audio-->
+	<mus id="TITLE">resources/audio/music/title.ogg</mus>
+	<mus id="LEV0">resources/audio/music/levels/LEV0.ogg</mus>
+	<mus id="LEV1">resources/audio/music/levels/LEV1.ogg</mus>
+	<mus id="LEV2">resources/audio/music/levels/LEV2.ogg</mus>
+	<mus id="LEV6">resources/audio/music/levels/LEV6.ogg</mus>
+	<mus id="BOSS0">resources/audio/music/levels/BOSS0.ogg</mus>
+	<mus id="ORB">resources/audio/music/orb_theme.ogg</mus>
+	<mus id="CUT">resources/audio/music/cutscene.ogg</mus>
+	<mus id="ENDING">resources/audio/music/ending.ogg</mus>
+</resources>

@@ -1,0 +1,11 @@
+Slick Build #274 DSE version: 0.32 DSE build #1.1 OS: Windows 8.6.2
+java.io.FileNotFoundException: resources\story.txt (The system cannot find the file specified)java.io.FileInputStream.open(Native Method)
+	java.io.FileInputStream.<init>(Unknown Source)
+	java.io.FileReader.<init>(Unknown Source)
+	main.IntroTextState.enter(IntroTextState.java:58)
+	org.newdawn.slick.state.StateBasedGame.update(StateBasedGame.java:261)
+	org.newdawn.slick.GameContainer.updateAndRender(GameContainer.java:646)
+	org.newdawn.slick.AppGameContainer.gameLoop(AppGameContainer.java:408)
+	org.newdawn.slick.AppGameContainer.start(AppGameContainer.java:318)
+	main.GameStates.main(GameStates.java:160)
+	

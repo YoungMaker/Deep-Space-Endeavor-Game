@@ -1,0 +1,22 @@
+package abilities;
+
+public enum AbilTypes { //an enum for storing types of abilities
+	ABILTIY, 
+	BACKGROUND_ABIL,
+	BULLET_ABIL,
+	SHIP_ABIL,
+	SUCIDIE_ABIL,
+	GUNFIRE_ABIL,
+	TARGET_ABIL,
+	PUP_ABIL,
+	GUN_SHIP_ABIL,
+	SIDEWAYS_ABIL,
+	DAMIND,
+	ADVANCED,
+	INTERPOLATE,
+	BOSS_ABIL, 
+	FLIP_ABIL, 
+	MINE_ABIL,
+	TELE_ABIL,
+	JET_ABIL
+}
