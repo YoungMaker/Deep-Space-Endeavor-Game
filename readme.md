@@ -6,8 +6,8 @@ A project I completed in late 2013 without the use of github. I am uploading it 
 This project is open source and has no restrictions. If you want to use it and re-make it into something else, I'd be flattered. Completely open source
 
 ### installation
-Download the DSE_1.15B.jar and the resources directory and put them in the same directory
-Run the DSE_1.15B.jar file (latest build). Alternatively, you can download and run it with the start.bat to read the console output
+Download the DSE_1.15B.rar from the releases tab and extract it. Run the DSE1.15B.jar in the same directory. 
+Alternatively, you can download and run it with the start.bat to read the console output
 
 ### Instructions
 * Space to select/advance and fire
